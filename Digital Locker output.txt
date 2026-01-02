@@ -1,0 +1,8 @@
+==== Digital Locker ====
+1. Set Password
+2. Lock File
+3. Unlock File
+4. Exit
+Choose option: 1
+Set new locker password: 123
+🔐 Password set successfully!
